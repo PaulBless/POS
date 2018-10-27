@@ -1,2 +1,2 @@
-# POS
-Point of Sale System - Desktop Application
+# SIMS
+Student Management Information System - Desktop Application
